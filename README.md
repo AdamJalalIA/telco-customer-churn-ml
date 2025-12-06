@@ -84,3 +84,7 @@ telco-customer-churn-ml/
 ├── README.md
 └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
+
+## Auteur
+
+Adam Jalal
