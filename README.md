@@ -1,5 +1,10 @@
 # Customer Churn Prediction
 
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-green.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.5+-green.svg)
+
 Projet de machine learning pour prédire le churn des clients d'une entreprise de télécommunications.
 
 ## Description
